@@ -16,7 +16,7 @@ second: 'numeric'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
-}global.owner = ['17608914335'] // Put your number here
+}global.owner = ['083113989278'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -59,20 +59,20 @@ global.APIKeys = { // APIKey Here
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
-global.author = `Ｍａｒｉｎ－ＭＤ
+global.stiker_wait = 'Stiker sedang dibuat tod'
+global.packname = 'KazuKi'
+global.author = `KazuKiMd
 
 
 
 
 
 ig: senpai_chan_gemoy`
-global.wm = 'Ｍａｒｉｎ－ＭＤ'
-global.watermark = wm
+global.wm = 'KazuKiMd'
+global.watermark = wm KazuKi
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
-global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
-global.instagram = 'https://instagram.com/senpai_chan_gemoy'
+global.media = 'https://telegra.ph/file/1e09cb88019c421da208c.jpg'
+global.instagram = 'https://www.instagram.com/Kazukigans/'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
